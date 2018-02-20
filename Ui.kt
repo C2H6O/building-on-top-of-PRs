@@ -1,7 +1,9 @@
 class Ui {
 
-	val user : User("PR1", 1)
+	val user : User("A2", 1)
 
 	print user.toString()
+
+	print "Printed user"
 
 }
